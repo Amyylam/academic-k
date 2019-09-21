@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postgrad student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: UBC
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -42,13 +42,11 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/amylamkm
+
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Ammylam
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -60,9 +58,9 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 Amy Lam is a postgrad student at UBC. Her research interests include machine learning, natural language processing, big data, fin tech, and pattern recognition.
